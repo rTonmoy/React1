@@ -1,0 +1,79 @@
+.ban_left {
+    border: 2px solid black;
+    height: 45px;
+    width: 180px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 24px;
+    -webkit-border-radius: 24px;
+    -moz-border-radius: 24px;
+    -ms-border-radius: 24px;
+    -o-border-radius: 24px;
+    position: relative;
+}
+
+.ban_left a{
+    margin-left: 40px;
+    font-weight: 600;
+    color: black;
+}
+
+.ban_left .bell{
+    position: absolute;
+    left: 1px;
+    top: 49%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    background-color: #FAD7C4;
+    height: 41px;
+    width: 41px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    text-align: center;
+    line-height: 41px;
+}
+
+.ban_left_txt h2{
+    width: 420px;
+    font-weight: 600;
+    padding-top: 20px;
+}
+
+.ban_left_txt h6{
+    width: 490px;
+    padding-top: 25px;
+}
+.ban_left_txt p{
+    width: 490px;
+}
+
+.ban_left_txt a{
+    background-color: #EA580C;
+    padding: 10px 42px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    color: #fff;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.bann_left{
+    padding-top: 70px;
+}
+
+.ban_right{
+    padding-left: 50px;
+}
+
+.banner{
+    padding-top: 30px;
+}

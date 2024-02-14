@@ -1,0 +1,29 @@
+.menu_bg .navbar-nav a{
+    font-weight: bold;
+    padding: 0 25px !important;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+}
+
+.menu_bg .navbar-nav a:hover{
+    color: #EA580C;
+}
+
+.btn a{
+    padding: 12px 35px;
+    background-color: #EA580C;
+    color: #fff;
+    border-radius: 18px;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    -ms-border-radius: 18px;
+    -o-border-radius: 18px;
+    box-sizing: border-box;
+}
+
+.icon{
+    margin-right: 10px;
+}
